@@ -1,9 +1,11 @@
 <!-- Banner -->
+<h1 align="center"> NoCode AI Tool Directory</h1>
+
 <p align="center">
   <img src="assets/banner.png" alt="NoCode AI Tool Directory Banner" />
 </p>
 
-<h1 align="center">🧠 NoCode AI Tool Directory</h1>
+
 
 <p align="center">
   A curated collection of the best <strong>no-code AI tools</strong> for makers, builders, and creators.  

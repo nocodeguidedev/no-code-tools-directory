@@ -1,11 +1,16 @@
 <!-- Banner -->
-<h1 align="center"> NoCode AI Tool Directory</h1>
+<h1 align="center">NoCode AI Tool Directory</h1>
 
 <p align="center">
   <img src="assets/banner.png" alt="NoCode AI Tool Directory Banner" />
 </p>
 
-
+<!-- Star Banner -->
+<p align="center">
+  <a href="https://github.com/nocodeguidedev/no-code-ai-tool-directory/stargazers">
+    <img src="assets/star.png" alt="Give us a ⭐️" />
+  </a>
+</p>
 
 <p align="center">
   A curated collection of the best <strong>no-code AI tools</strong> for makers, builders, and creators.  
@@ -30,37 +35,65 @@ We’ll later expand to a proper website via GitHub Pages or a platform like Fra
 
 ---
 
-## 🧩 Tool Categories (Sample)
+## 🧩 Tool Categories
 
 > We'll keep updating this — feel free to contribute your favorites!
 
-| Tool Name      | Category         | Description                             | Link |
-|----------------|------------------|-----------------------------------------|------|
-| [Durable AI](https://durable.co) | Website Builder | Build and deploy websites in seconds with AI | 🌐 |
-| [Cleanup.pictures](https://cleanup.pictures) | Image Editing | Remove objects and people from photos using AI | 🖼 |
-| [Kaiber](https://kaiber.ai) | Video Generator | Turn ideas into videos with text-to-video AI | 🎥 |
-| [Notion AI](https://www.notion.so/product/ai) | Productivity | AI writing assistant inside Notion | ✍️ |
+### 🧠 Idea & Market Research
 
----
+| Logo | Tool Name | Description | Link |
+|------|-----------|-------------|------|
+| 🧠 | ChatGPT / Claude | Brainstorming ideas and getting insights | [ChatGPT](https://chat.openai.com) / [Claude](https://claude.ai) |
+| 📈 | Trends.vc | Researching emerging market trends | [Trends.vc](https://trends.vc) |
+| 📊 | Exploding Topics | Identifying trending business opportunities | [Exploding Topics](https://explodingtopics.com) |
+| 📋 | SurveyMonkey / Typeform | Validating ideas with surveys | [SurveyMonkey](https://www.surveymonkey.com) / [Typeform](https://www.typeform.com) |
+| 🔍 | Google Trends | Checking market demand for your idea | [Google Trends](https://trends.google.com) |
 
-## 🧠 How to Contribute
+### 🛠️ No-Code Development & Automation
 
-Want to add your favorite no-code AI tool? Awesome!
+#### Building SaaS Without Code
 
-1. Go to the [Issues](https://github.com/nocodeguidedev/no-code-ai-tool-directory/issues) tab
-2. Click **"New Issue"**
-3. Choose the **Submit a No-Code Tool** template
-4. Fill in the details, and we’ll review & add it here! 🎉
+| Logo | Tool Name | Description | Link |
+|------|-----------|-------------|------|
+| ![Bubble](assets/logos/bubble.png) | Bubble | No-code web app builder | [Bubble](https://bubble.io) |
+| ![Glide](assets/logos/glide.png) | Glide | Create SaaS products using Google Sheets | [Glide](https://www.glideapps.com) |
+| ![Thunkable](assets/logos/thunkable.png) / ![Adalo](assets/logos/adalo.png) | Thunkable / Adalo | No-code mobile app builders | [Thunkable](https://thunkable.com) / [Adalo](https://www.adalo.com) |
+| ![Webflow](assets/logos/webflow.png) | Webflow | No-code website builder | [Webflow](https://webflow.com) |
+| ![Framer](assets/logos/framer.png) | Framer | Modern website builder with animations and components | [Framer](https://www.framer.com) |
+| ![Lovable](assets/logos/lovable.png) | Lovable.so | AI-powered design-to-site builder | [Lovable](https://lovable.so) |
+| ![Bolt](assets/logos/bolt.png) | Bolt.new | Lightweight & fast landing page builder | [Bolt.new](https://bolt.new) |
+| ![Softr](assets/logos/softr.png) | Softr | Turn Airtable into SaaS applications | [Softr](https://www.softr.io) |
+| ![Xano](assets/logos/xano.png) | Xano | No-code backend development | [Xano](https://www.xano.com) |
 
-You can also make a pull request directly.
+#### Automating Workflows
 
----
+| Logo | Tool Name | Description | Link |
+|------|-----------|-------------|------|
+| ![Zapier](assets/logos/zapier.png) | Zapier | Automate workflows between apps | [Zapier](https://zapier.com) |
+| ![Make](assets/logos/make.png) | Make (Integromat) | Advanced automation and integrations | [Make](https://www.make.com) |
+| ![Pipedream](assets/logos/pipedream.png) | Pipedream | Serverless workflows for automation | [Pipedream](https://pipedream.com) |
 
-## 💬 Stay Updated
+### 🎨 UI/UX Design & Prototyping
 
-Follow our Instagram: [@nocodeguide](https://instagram.com/nocodeguide) for tool highlights, tips, and updates.
+| Logo | Tool Name | Description | Link |
+|------|-----------|-------------|------|
+| ![Figma](assets/logos/figma.png) | Figma | Collaborative UI/UX design tool | [Figma](https://www.figma.com) |
+| ![Framer](assets/logos/framer.png) | Framer | High-fidelity design to live site | [Framer](https://www.framer.com) |
+| ![Uizard](assets/logos/uizard.png) | Uizard | AI-powered UI design from sketches | [Uizard](https://uizard.io) |
+| ![Midjourney](assets/logos/midjourney.png) / ![DALL·E](assets/logos/dalle.png) | Midjourney / DALL·E | Generate UI/UX inspiration | [Midjourney](https://www.midjourney.com) / [DALL·E](https://openai.com/dall-e) |
 
----
+### 🔧 AI-Powered SaaS Features
 
-## 📂 Repo Structure
+| Logo | Tool Name | Description | Link |
+|------|-----------|-------------|------|
+| ![OpenAI](assets/logos/openai.png) | OpenAI API | AI-powered chatbots & text generation | [OpenAI](https://openai.com/api) |
+| ![Hugging Face](assets/logos/huggingface.png) | Hugging Face | Open-source AI models | [Hugging Face](https://huggingface.co) |
+| ![Replicate](assets/logos/replicate.png) | Replicate | AI model hosting for SaaS products | [Replicate](https://replicate.com) |
+| ![Vellum](assets/logos/vellum.png) | Vellum AI | No-code AI model builder | [Vellum](https://www.vellum.ai) |
+| ![Superflows](assets/logos/superflows.png) | Superflows | AI-powered workflows in SaaS | [Superflows](https://www.superflows.ai) |
 
+### 💻 AI IDEs & Coding Assistants
+
+| Logo | Tool Name |
+::contentReference[oaicite:1]{index=1}
+ 

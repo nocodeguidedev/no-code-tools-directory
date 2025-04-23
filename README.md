@@ -1,16 +1,9 @@
 <!-- Banner -->
-<h1 align="center">NoCode AI Tool Directory</h1>
-
 <p align="center">
   <img src="assets/banner.png" alt="NoCode AI Tool Directory Banner" />
 </p>
 
-<!-- Star Banner -->
-<p align="center">
-  <a href="https://github.com/nocodeguidedev/no-code-ai-tool-directory/stargazers">
-    <img src="assets/star.png" alt="Give us a ⭐️" />
-  </a>
-</p>
+
 
 <p align="center">
   A curated collection of the best <strong>no-code AI tools</strong> for makers, builders, and creators.  
@@ -96,4 +89,11 @@ We’ll later expand to a proper website via GitHub Pages or a platform like Fra
 
 | Logo | Tool Name |
 ::contentReference[oaicite:1]{index=1}
+
+<!-- Star Banner -->
+<p align="center">
+  <a href="https://github.com/nocodeguidedev/no-code-ai-tool-directory/stargazers">
+    <img src="assets/star.png" alt="Give us a ⭐️" />
+  </a>
+</p>
  

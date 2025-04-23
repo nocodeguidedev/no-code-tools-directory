@@ -10,28 +10,42 @@ assignees: ""
 
 What is the name of the tool?
 
-Example: **Webflow**, **Airtable**, **Zapier**
+_Example: **Webflow**, **Airtable**, **Zapier**_
+
+---
 
 ## 🔗 Link
 
-Provide the link to the tool's website.
+Provide the link to the tool’s website.
 
-Example: [Webflow](https://www.webflow.com)
+_Example: [Webflow](https://www.webflow.com)_
+
+---
 
 ## 🧠 Category
 
-Which category does this tool belong to?
+Which category does this tool belong to? (Tick one)
 
-- [ ] Design & Image
-- [ ] Writing & Copy
-- [ ] Automation & Productivity
-- [ ] Web Development
-- [ ] Marketing & CRM
-- [ ] Other: ****\_\_\_\_****
+- [ ] 🧠 Idea & Market Research  
+- [ ] 🧩 No-Code Development  
+- [ ] ⚙️ Automation & Productivity  
+- [ ] 🎨 UI/UX Design  
+- [ ] 🤖 AI-Powered Features  
+- [ ] 🗄️ Backend & Database  
+- [ ] 💳 Payments & Subscriptions  
+- [ ] 📈 Marketing, SEO & Growth  
+- [ ] 📊 Analytics  
+- [ ] 💬 Customer Support  
+- [ ] 👥 Community & Engagement  
+- [ ] 🧰 Other: **(please specify)**
 
-## ✨ Short Description (1-2 lines)
+---
+
+## ✨ Short Description (1–2 lines)
 
 Briefly describe what the tool does and why it’s useful.
+
+---
 
 ## 🆓 Is it Free?
 
@@ -39,10 +53,15 @@ Briefly describe what the tool does and why it’s useful.
 - [ ] Free + Paid plans
 - [ ] Paid only
 
+---
+
 ## 🧪 Have you used it personally?
 
 - [ ] Yes
 - [ ] No, just discovered
 
-(Optional) Anything else we should know?  
-Feel free to add any extra comments or details about the tool here.
+---
+
+## 💬 Anything else we should know?
+
+_Optional — Add any other notes, features, or reasons why this tool stands out._

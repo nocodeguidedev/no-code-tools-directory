@@ -149,7 +149,7 @@ _We'll keep updating this — feel free to [contribute](#-contribute) your favor
 | Surfer SEO | Paid | Optimizing content for search engines | [Surfer SEO](https://surferseo.com) |
 | Ahrefs / SEMrush | Paid | SEO keyword research & analytics | [Ahrefs](https://ahrefs.com) / [SEMrush](https://www.semrush.com) |
 | Carrd | Free / Paid | Simple one-page websites | [Carrd](https://carrd.co) |
-| 📧 | Beehiiv / ConvertKit | Free / Paid | Email marketing automation | [Beehiiv](https://www.beehiiv.com) / [ConvertKit](https://convertkit.com) |
+| Beehiiv / ConvertKit | Free / Paid | Email marketing automation | [Beehiiv](https://www.beehiiv.com) / [ConvertKit](https://convertkit.com) |
 
 <br>
 

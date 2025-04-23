@@ -27,11 +27,10 @@ Use it to explore tools, plan projects, validate ideas, and automate workflows �
 
 ---
 
-## 🧩 Tool Categories  
+## Table of Contents 
 _We'll keep updating this — feel free to [contribute](#-contribute) your favorites!_
 
-### Table of Contents
-
+### 🧩 Tool Categories 
 - [Idea & Market Research](#-idea--market-research)
 - [No-Code Development & Automation](#-no-code-development--automation)
 - [Automating Workflows](#automating-workflows)
@@ -47,7 +46,6 @@ _We'll keep updating this — feel free to [contribute](#-contribute) your favor
 
 ---
 
-## 🧩 Tool Categories
 
 > We'll keep updating this — feel free to [contribute](#-contribute) your favorites!
 

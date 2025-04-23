@@ -26,7 +26,7 @@ If you know a tool that belongs in the directory, you can submit it by:
 If you find any issues or bugs in the repository, feel free to submit an issue or fix it yourself via a pull request. You can:
 
 - [🐛 Report a Bug](https://github.com/nocodeguidedev/no-code-tools-directory/blob/main/.github/ISSUE_TEMPLATE/bug-report.md)
-- [💡 Request a Feature](https://github.com/nocode-guide-dev/no-code-ai-tool-directory/issues/new?assignees=&labels=enhancement&template=feature_request.md)
+- [💡 Request a Feature](https://github.com/nocodeguidedev/no-code-tools-directory/blob/main/.github/ISSUE_TEMPLATE/feature-request.md)
 - If you're fixing something, fork the repository and submit a pull request with your changes.
 
 ---

@@ -63,7 +63,7 @@ _We'll keep updating this — feel free to [contribute](#-contribute) your favor
 | 📋 | SurveyMonkey / Typeform | Free / Paid | Validating ideas with surveys | [SurveyMonkey](https://www.surveymonkey.com) / [Typeform](https://www.typeform.com) |
 | 🔍 | Google Trends | Free | Checking market demand for your idea | [Google Trends](https://trends.google.com) |
 
----
+<br>
 
 ## 🛠️ No-Code Development & Automation
 **Use Case: Building SaaS Without Code**
@@ -80,7 +80,7 @@ _We'll keep updating this — feel free to [contribute](#-contribute) your favor
 | 🧩 | Softr | Free / Paid | Turn Airtable into SaaS apps | [Softr](https://www.softr.io) |
 | 🔧 | Xano | Free / Paid | No-code backend development | [Xano](https://xano.com) |
 
----
+<br>
 
 ## Automating Workflows
 **Use Case: Automate tasks & connect apps to save time and boost efficiency**
@@ -91,7 +91,7 @@ _We'll keep updating this — feel free to [contribute](#-contribute) your favor
 | 🔄 | Make (Integromat) | Free / Paid | Advanced automation and integrations | [Make](https://www.make.com) |
 | 🌐 | Pipedream | Free / Paid | Serverless workflows for automation | [Pipedream](https://pipedream.com) |
 
----
+<br>
 
 ## 🎨 UI/UX Design & Prototyping
 **Use Case: Design and prototype interfaces for your product quickly and collaboratively**
@@ -103,7 +103,7 @@ _We'll keep updating this — feel free to [contribute](#-contribute) your favor
 | ✏️ | Uizard | Free / Paid | AI-powered UI design from sketches | [Uizard](https://www.uizard.io) |
 | 🖼️ | Midjourney / DALL·E | Paid | Generate UI/UX inspiration | [Midjourney](https://www.midjourney.com) / [DALL·E](https://openai.com/dall-e) |
 
----
+<br>
 
 ## 🔧 AI-Powered SaaS Features
 **Use Case: Add AI features like chat, image generation, or summarization to your app**
@@ -116,7 +116,7 @@ _We'll keep updating this — feel free to [contribute](#-contribute) your favor
 | 🧰 | Vellum | No-code AI model builder | [Vellum](https://www.vellum.ai) |
 | ⚙️ | Superflows | AI-powered workflows in SaaS | [Superflows](https://www.superflows.io) |
 
----
+<br>
 
 ## 🗄️ Backend & Database Management
 **Use Case: Store and manage data for your SaaS with scalable and easy-to-use tools **
@@ -128,7 +128,7 @@ _We'll keep updating this — feel free to [contribute](#-contribute) your favor
 | 🔥 | Firebase | Free / Paid | Scalable backend for web & mobile apps | [Firebase](https://firebase.google.com) |
 | 🐘 | PostgreSQL / MySQL | Free | Traditional databases | [PostgreSQL](https://www.postgresql.org) / [MySQL](https://www.mysql.com) |
 
----
+<br>
 
 ## 💳 Payment & Subscription Management
 **Use Case: Accept payments and manage subscriptions with minimal setup**
@@ -139,7 +139,7 @@ _We'll keep updating this — feel free to [contribute](#-contribute) your favor
 | 🧾 | Paddle | Paid | Subscription billing without tax headaches | [Paddle](https://paddle.com) |
 | 🍋 | Lemon Squeezy | Paid | No-code payment integration | [Lemon Squeezy](https://www.lemonsqueezy.com) |
 
----
+<br>
 
 ## 📈 Growth, Marketing & SEO
 **Use Case: Grow your user base with content, SEO tools, and email marketing**
@@ -153,7 +153,7 @@ _We'll keep updating this — feel free to [contribute](#-contribute) your favor
 | 🖥️ | Carrd | Free / Paid | Simple one-page websites | [Carrd](https://carrd.co) |
 | 📧 | Beehiiv / ConvertKit | Free / Paid | Email marketing automation | [Beehiiv](https://www.beehiiv.com) / [ConvertKit](https://convertkit.com) |
 
----
+<br>
 
 ## 📊 Analytics & User Behavior Tracking
 **Use Case: Track user actions and understand how people interact with your product**
@@ -165,7 +165,7 @@ _We'll keep updating this — feel free to [contribute](#-contribute) your favor
 | 🔥 | Hotjar | Free / Paid | Heatmaps & session recordings | [Hotjar](https://www.hotjar.com) |
 | 🐗 | PostHog | Free / Paid | Open-source product analytics | [PostHog](https://posthog.com) |
 
----
+<br>
 
 ## 👨‍💻 Customer Support & Chatbots
 **Use Case: Automate tasks & connect apps to save time and boost efficiency**
@@ -177,7 +177,7 @@ _We'll keep updating this — feel free to [contribute](#-contribute) your favor
 | 🗨️ | Tidio | Free / Paid | No-code chatbot for SaaS | [Tidio](https://www.tidio.com) |
 | 🎟️ | Zendesk | Paid | Customer support ticketing system | [Zendesk](https://www.zendesk.com) |
 
----
+<br>
 
 ## 📢 Community & User Engagement
 **Use Case: Support your users with live chat, helpdesks, and AI chatbots**
@@ -190,11 +190,14 @@ _We'll keep updating this — feel free to [contribute](#-contribute) your favor
 
 ---
 
-
+## Give us a ⭐️
 <!-- Star Banner -->
 <p align="center">
   <a href="https://github.com/nocodeguidedev/no-code-ai-tool-directory/stargazers">
     <img src="assets/star.png" alt="Give us a ⭐️" />
   </a>
+  <br />
+  <sub>If you find this project useful, please consider giving it a star.</sub>
 </p>
+
  

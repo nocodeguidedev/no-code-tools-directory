@@ -13,7 +13,7 @@ There are several ways you can contribute to this project:
 
 If you know a tool that belongs in the directory, you can submit it by:
 
-- **Option 1**: [Submit via GitHub Issue](https://github.com/nocode-guide-dev/no-code-ai-tool-directory/issues/new?assignees=&labels=tool+submission&template=submit-a-no-code-tool.md)  
+- **Option 1**: [Submit via GitHub Issue](https://github.com/nocodeguidedev/no-code-tools-directory/blob/main/.github/ISSUE_TEMPLATE/submit-tool.md)  
   Fill out the form with your tool’s details, and we’ll review and add it to the directory.
 
 - **Option 2**: Submit via Pull Request (PR)  

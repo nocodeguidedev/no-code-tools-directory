@@ -3,7 +3,10 @@
   <img src="assets/banner.png" alt="NoCode AI Tool Directory Banner" />
 </p>
 
-
+<!-- GIF Demo -->
+<p align="center">
+  <img src="assets/noCodeGuide2.gif" alt="NoCode AI Tool Demo" width="400" />
+</p>
 
 <p align="center">
   A curated collection of the best <strong>no-code AI tools</strong> for makers, builders, and creators.  

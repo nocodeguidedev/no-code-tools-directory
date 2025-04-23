@@ -50,12 +50,6 @@ Please ensure your submissions follow these guidelines:
 
 ---
 
-## 🔧 Code of Conduct
-
-By participating in this project, you agree to follow our [Code of Conduct](CODE_OF_CONDUCT.md). We are committed to providing a welcoming and inclusive environment for everyone.
-
----
-
 ## 💡 Need Help?
 
 If you have any questions or need help, feel free to open an issue or reach out to the maintainers. We’re happy to assist you!

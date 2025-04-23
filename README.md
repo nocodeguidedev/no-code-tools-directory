@@ -33,11 +33,11 @@ _We'll keep updating this — feel free to [contribute](#-contribute) your favor
 ### Table of Contents
 
 - [Idea & Market Research](#-idea--market-research)
-- [No-Code Development & Automation](#-no-code--development--automation)
+- [No-Code Development & Automation](#-no-code-development--automation)
 - [Automating Workflows](#automating-workflows)
 - [UI/UX Design & Prototyping](#-uiux-design--prototyping)
-- [AI-Powered SaaS Features](#-ai-powered--saas--features)
-- [Backend & Database Management](#-backend--database--management)
+- [AI-Powered SaaS Features](#-ai-powered-saas-features)
+- [Backend & Database Management](#-backend--database-management)
 - [Payment & Subscription Management](#-payment--subscription-management)
 - [Growth, Marketing & SEO](#-growth-marketing--seo)
 - [Analytics & User Behavior Tracking](#-analytics--user-behavior-tracking)

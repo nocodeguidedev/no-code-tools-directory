@@ -9,28 +9,31 @@ This project curates the best AI-powered tools for building, automating, scaling
 
 You can submit your favorite no-code tool in two ways:
 
-### ✅ Option 1: Submit via GitHub Issue (Recommended)
+###  Option 1: Submit via GitHub Issue (Recommended)
 
 1. Go to [this link](https://github.com/nocodeguidedev/no-code-tools-directory/blob/main/.github/ISSUE_TEMPLATE/submit-tool.md).
 2. Fill out the form with your tool’s details.
 3. We’ll review and add it to the main directory.
 
----
+<br>
 
-### ✍️ Option 2: Submit via Pull Request
+###  Option 2: Submit via Pull Request
 
 1. **Fork** this repository.
 2. Open the `README.md`.
 3. Add your tool to the appropriate section using this format:
 
 ```markdown
-| Logo | Tool Name | Price | Description | Link |
-|------|-----------|-------|-------------|------|
-| 🧠 | Tool Logo | Free/Paid | Brief tool description | [Tool Link](https://example.com) |
-Submit a pull request with your changes.
+| Tool Name | Price | Description | Link |
+|-----------|-------|-------------|------|
+| Tool Logo | Free/Paid | Brief tool description | [Tool Link](https://example.com) |
 ```
+Submit a pull request with your changes.
+<br>
 
-✅ Submission Checklist
+---
+
+## ✅ Submission Checklist
  Tool is AI-powered or uses AI features.
 
  It has a live demo or website.
@@ -40,8 +43,10 @@ Submit a pull request with your changes.
  It's relevant to one of our categories.
 
  Description is short and helpful.
+ 
+<br>
 
-🛑 Submission Rules
+## 🛑 Submission Rules
 No referral or affiliate links.
 
 No low-effort or scammy tools.

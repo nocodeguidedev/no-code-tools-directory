@@ -116,7 +116,7 @@ _We'll keep updating this — feel free to [contribute](#-contribute) your favor
 <br>
 
 ## 🗄️ Backend & Database Management
-**Use Case: Store and manage data for your SaaS with scalable and easy-to-use tools **
+**Use Case: Store and manage data for your SaaS with scalable and easy-to-use tools**
 
 | Logo | Tool Name | Price | Description | Link |
 |------|-----------|-------|-------------|------|
@@ -124,6 +124,7 @@ _We'll keep updating this — feel free to [contribute](#-contribute) your favor
 | 📊 | Airtable | Free / Paid | Database for no-code apps | [Airtable](https://airtable.com) |
 | 🔥 | Firebase | Free / Paid | Scalable backend for web & mobile apps | [Firebase](https://firebase.google.com) |
 | 🐘 | PostgreSQL / MySQL | Free | Traditional databases | [PostgreSQL](https://www.postgresql.org) / [MySQL](https://www.mysql.com) |
+
 
 <br>
 

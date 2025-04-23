@@ -33,6 +33,27 @@ Use it to explore tools, plan projects, validate ideas, and automate workflows �
 
 ---
 
+## 🧩 Tool Categories  
+_We'll keep updating this — feel free to [contribute](#-contribute) your favorites!_
+
+### Table of Contents
+
+- [Idea & Market Research](#-idea--market-research)
+- [No-Code Development & Automation](#-no-code-development--automation)
+- [Building SaaS Without Code](#building-saas-without-code)
+- [Automating Workflows](#automating-workflows)
+- [UI/UX Design & Prototyping](#-uiux-design--prototyping)
+- [AI-Powered SaaS Features](#-ai-powered-saas-features)
+- [Backend & Database Management](#-backend--database-management)
+- [Payment & Subscription Management](#-payment--subscription-management)
+- [Growth, Marketing & SEO](#-growth-marketing--seo)
+- [Analytics & User Behavior Tracking](#-analytics--user-behavior-tracking)
+- [Customer Support & Chatbots](#-customer-support--chatbots)
+- [Community & User Engagement](#-community--user-engagement)
+
+
+---
+
 ## 🧩 Tool Categories
 
 > We'll keep updating this — feel free to [contribute](#-contribute) your favorites!

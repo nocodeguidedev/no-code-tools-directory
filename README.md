@@ -186,7 +186,10 @@ _We'll keep updating this — feel free to [contribute](#-contribute) your favor
 | Discord / Slack | Free / Paid | Engage with users & provide support | [Discord](https://discord.com) / [Slack](https://slack.com) |
 | Betalist / Product Hunt | Free | Launch your product to an audience | [Betalist](https://betalist.com) / [Product Hunt](https://www.producthunt.com) |
 
+<br>
+
 ---
+<br>
 
 ## Give us a ⭐️
 <!-- Star Banner -->

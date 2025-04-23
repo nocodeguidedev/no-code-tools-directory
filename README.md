@@ -28,7 +28,7 @@ Use it to explore tools, plan projects, validate ideas, and automate workflows �
 ---
 
 ## Table of Contents 
-_We'll keep updating this — feel free to [contribute](#-contribute) your favorites!_
+_We'll keep updating this — feel free to [contribute](https://github.com/nocodeguidedev/no-code-tools-directory/blob/main/CONTRIBUTING.md) your favorites!_
 
 ### 🧩 Tool Categories 
 - [Idea & Market Research](#-idea--market-research)

@@ -3,12 +3,6 @@
   <img src="assets/banner.png" alt="NoCode AI Tool Directory Banner" />
 </p>
 
-
-<p align="center">
-  A curated collection of the best <strong>no-code AI tools</strong> for makers, builders, and creators.  
-  Discover, explore, and contribute to the future of AI-powered productivity.
-</p>
-
 ---
 
 ## 🚀 About This Project
@@ -72,7 +66,7 @@ _We'll keep updating this — feel free to [contribute](#-contribute) your favor
 ---
 
 ## 🛠️ No-Code Development & Automation
-**Building SaaS Without Code**
+**Use Case: Building SaaS Without Code**
 
 | Logo | Tool Name | Price | Description | Link |
 |------|-----------|-------|-------------|------|
@@ -89,6 +83,7 @@ _We'll keep updating this — feel free to [contribute](#-contribute) your favor
 ---
 
 ## Automating Workflows
+**Use Case: Automate tasks & connect apps to save time and boost efficiency**
 
 | Logo | Tool Name | Price | Description | Link |
 |------|-----------|-------|-------------|------|
@@ -99,6 +94,7 @@ _We'll keep updating this — feel free to [contribute](#-contribute) your favor
 ---
 
 ## 🎨 UI/UX Design & Prototyping
+**Use Case: Design and prototype interfaces for your product quickly and collaboratively**
 
 | Logo | Tool Name | Price | Description | Link |
 |------|-----------|-------|-------------|------|
@@ -110,6 +106,7 @@ _We'll keep updating this — feel free to [contribute](#-contribute) your favor
 ---
 
 ## 🔧 AI-Powered SaaS Features
+**Use Case: Add AI features like chat, image generation, or summarization to your app**
 
 | Logo | Tool Name | Description | Link |
 |------|-----------|-------------|------|
@@ -122,6 +119,7 @@ _We'll keep updating this — feel free to [contribute](#-contribute) your favor
 ---
 
 ## 🗄️ Backend & Database Management
+**Use Case: Store and manage data for your SaaS with scalable and easy-to-use tools **
 
 | Logo | Tool Name | Price | Description | Link |
 |------|-----------|-------|-------------|------|
@@ -133,6 +131,7 @@ _We'll keep updating this — feel free to [contribute](#-contribute) your favor
 ---
 
 ## 💳 Payment & Subscription Management
+**Use Case: Accept payments and manage subscriptions with minimal setup**
 
 | Logo | Tool Name | Price | Description | Link |
 |------|-----------|-------|-------------|------|
@@ -143,6 +142,7 @@ _We'll keep updating this — feel free to [contribute](#-contribute) your favor
 ---
 
 ## 📈 Growth, Marketing & SEO
+**Use Case: Grow your user base with content, SEO tools, and email marketing**
 
 | Logo | Tool Name | Price | Description | Link |
 |------|-----------|-------|-------------|------|
@@ -156,6 +156,7 @@ _We'll keep updating this — feel free to [contribute](#-contribute) your favor
 ---
 
 ## 📊 Analytics & User Behavior Tracking
+**Use Case: Track user actions and understand how people interact with your product**
 
 | Logo | Tool Name | Price | Description | Link |
 |------|-----------|-------|-------------|------|
@@ -167,6 +168,7 @@ _We'll keep updating this — feel free to [contribute](#-contribute) your favor
 ---
 
 ## 👨‍💻 Customer Support & Chatbots
+**Use Case: Automate tasks & connect apps to save time and boost efficiency**
 
 | Logo | Tool Name | Price | Description | Link |
 |------|-----------|-------|-------------|------|
@@ -178,6 +180,7 @@ _We'll keep updating this — feel free to [contribute](#-contribute) your favor
 ---
 
 ## 📢 Community & User Engagement
+**Use Case: Support your users with live chat, helpdesks, and AI chatbots**
 
 | Logo | Tool Name | Price | Description | Link |
 |------|-----------|-------|-------------|------|

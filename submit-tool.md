@@ -11,7 +11,7 @@ You can submit your favorite no-code tool in two ways:
 
 ### ✅ Option 1: Submit via GitHub Issue (Recommended)
 
-1. Go to [this link](https://github.com/nocode-guide-dev/no-code-ai-tool-directory/issues/new?assignees=&labels=tool+submission&template=submit-a-no-code-tool.md).
+1. Go to [this link](https://github.com/nocodeguidedev/no-code-tools-directory/blob/main/.github/ISSUE_TEMPLATE/submit-tool.md).
 2. Fill out the form with your tool’s details.
 3. We’ll review and add it to the main directory.
 

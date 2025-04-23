@@ -36,7 +36,7 @@ _We'll keep updating this — feel free to [contribute](#-contribute) your favor
 - [Automating Workflows](#automating-workflows)
 - [UI/UX Design & Prototyping](#-uiux-design--prototyping)
 - [AI-Powered SaaS Features](#-ai-powered-saas-features)
-- [Backend & Database Management](#-backend--database-management)
+- [Backend & Database Management](#backend--database-management)
 - [Payment & Subscription Management](#-payment--subscription-management)
 - [Growth, Marketing & SEO](#-growth-marketing--seo)
 - [Analytics & User Behavior Tracking](#-analytics--user-behavior-tracking)
@@ -115,7 +115,7 @@ _We'll keep updating this — feel free to [contribute](#-contribute) your favor
 
 <br>
 
-## 🗄️ Backend & Database Management
+## Backend & Database Management
 **Use Case: Store and manage data for your SaaS with scalable and easy-to-use tools**
 
 | Logo | Tool Name | Price | Description | Link |

@@ -157,6 +157,7 @@ _We'll keep updating this — feel free to [contribute](https://github.com/nocod
 | Ahrefs / SEMrush | Paid | SEO keyword research & analytics | [Ahrefs](https://ahrefs.com) / [SEMrush](https://www.semrush.com) |
 | Carrd | Free / Paid | Simple one-page websites | [Carrd](https://carrd.co) |
 | Beehiiv / ConvertKit | Free / Paid | Email marketing automation | [Beehiiv](https://www.beehiiv.com) / [ConvertKit](https://convertkit.com) |
+| Head AI | Paid | AI-powered marketing automation for businesses | [Head AI](https://headai.io/) |
 
 <br>
 

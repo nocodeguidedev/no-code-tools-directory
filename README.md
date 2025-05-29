@@ -125,8 +125,8 @@ _We'll keep updating this — feel free to [contribute](https://github.com/nocod
 ## Backend & Database Management
 **Use Case: Store and manage data for your SaaS with scalable and easy-to-use tools**
 
-| Logo | Tool Name | Price | Description | Link |
-|------|-----------|-------|-------------|------|
+| Tool Name | Price | Description | Link |
+|-----------|-------|-------------|------|
 | Supabase | Free / Paid | Open-source Firebase alternative | [Supabase](https://supabase.io) |
 | Airtable | Free / Paid | Database for no-code apps | [Airtable](https://airtable.com) |
 | Firebase | Free / Paid | Scalable backend for web & mobile apps | [Firebase](https://firebase.google.com) |
@@ -168,7 +168,7 @@ _We'll keep updating this — feel free to [contribute](https://github.com/nocod
 |-----------|-------|-------------|------|
 | Google Analytics | Free | Website traffic insights | [Google Analytics](https://analytics.google.com) |
 | Mixpanel | Free / Paid | User behavior analytics | [Mixpanel](https://mixpanel.com) |
-| Free / Paid | Heatmaps & session recordings | [Hotjar](https://www.hotjar.com) |
+| Hotjar | Free / Paid | Heatmaps & session recordings | [Hotjar](https://www.hotjar.com) |
 | PostHog | Free / Paid | Open-source product analytics | [PostHog](https://posthog.com) |
 
 <br>

@@ -66,6 +66,7 @@ _We'll keep updating this — feel free to [contribute](https://github.com/nocod
 | Exploding Topics | Free / Paid | Identifying trending business opportunities | [Exploding Topics](https://explodingtopics.com) |
 | SurveyMonkey / Typeform | Free / Paid | Validating ideas with surveys | [SurveyMonkey](https://www.surveymonkey.com) / [Typeform](https://www.typeform.com) |
 | Google Trends | Free | Checking market demand for your idea | [Google Trends](https://trends.google.com) |
+| CueKite | Free / Paid | CueKite helps founders and builders find evidence-backed opportunities that fit their skills and constraints, then turn a chosen Idea into a practical Plan. | [CueKite](https://cuekite.com) |
 
 <br>
 
